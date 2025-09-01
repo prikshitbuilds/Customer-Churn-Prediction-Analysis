@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis | Python, SQL, Tableau (2023)
+# 📊 Customer Churn Analysis | Python, SQL
 
 This project focuses on analyzing customer churn for a telecom company using **Python, SQL, and Tableau**.  
 The goal was to identify key drivers of churn, build predictive models, and create actionable visualizations to support business decision-making.
@@ -53,7 +53,7 @@ An interactive dashboard was created to visualize:
 
 👉 **Impact:** Insights from the dashboard projected to **reduce churn by 15%** through targeted retention strategies.
 
+
+
 ---
 
-   git clone https://github.com/yourusername/customer-churn-analysis.git
-   cd customer-churn-analysis
